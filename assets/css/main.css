@@ -304,7 +304,7 @@ button,
   button.icon:before,
   .button.icon:before {
     margin-right: 0.5rem; }
-  input[type="submit"].fit,
+  input[type="submit"]center.fit,
   input[type="reset"].fit,
   input[type="button"].fit,
   button.fit,
